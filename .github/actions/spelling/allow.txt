@@ -173,6 +173,7 @@ catus
 caudatus
 caxis
 cbp
+ccc
 cce
 cctv
 cdiv
@@ -343,6 +344,7 @@ Dzor
 ecommerce
 EDB
 Edunov
+eee
 EHR
 EHsc
 EIC
@@ -355,6 +357,7 @@ elinks
 Eliquis
 Eliud
 elous
+ema
 emb
 embs
 Embs
@@ -451,6 +454,7 @@ fromiter
 fsspec
 FTPS
 fts
+Fudd
 fulltext
 fullurl
 functiona
@@ -501,6 +505,7 @@ giallo
 Giallo
 Giancarlo
 gidiyor
+giftable
 ginnala
 Gisting
 github
@@ -641,6 +646,7 @@ iphoneos
 ipycanvas
 ipykernel
 ipynb
+ipywebrtc
 IRAs
 isa
 itable
@@ -715,6 +721,7 @@ konnte
 kotlin
 Koyel
 kpi
+kpis
 KPIs
 Kraizt
 KSA
@@ -793,6 +800,8 @@ Maa
 Maackia
 Maarten
 maas
+macd
+MACD
 magicoder
 magika
 Mahindra
@@ -966,6 +975,8 @@ objc
 ODb
 oglevel
 Ohashi
+ohlcv
+OHLCV
 Ohtani
 Okame
 Olá
@@ -1175,6 +1186,8 @@ rpet
 rrf
 RRF
 rsc
+rsi
+RSI
 rslora
 rsp
 RTN
@@ -1359,6 +1372,7 @@ TOKENLIST
 tomentosa
 Tongsheng
 toolcall
+toolsets
 toolu
 Topolino
 toself
