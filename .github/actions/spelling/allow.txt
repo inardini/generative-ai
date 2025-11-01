@@ -1,3 +1,9 @@
+ITL
+itl
+tok
+TPOT
+tpot
+ttft
 aadd
 Aadila
 AALR
@@ -316,6 +322,7 @@ Doogler
 dotprompt
 Downscale
 dpi
+dpo
 DPO
 draig
 Dreesen
